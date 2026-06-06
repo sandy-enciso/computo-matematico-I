@@ -1,5 +1,5 @@
 # Funcion sumalista
-# El objetico es sumar los elementos de una lista
+# El objetivo es sumar los elementos de una lista
 
 def sumalista(lista):
     suma = 0

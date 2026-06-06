@@ -36,3 +36,7 @@
 ### Ejemplo de uso IF
 
 [Ver video](https://youtu.be/PenG1jBDLWw)
+
+### Programas de la semana 3
+
+[Ver video](https://youtu.be/CDq5kpRmgZQ)
