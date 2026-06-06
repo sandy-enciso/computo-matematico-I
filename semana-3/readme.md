@@ -30,3 +30,9 @@
 - La mayoría de los archivos usa el paradigma procedural: se define una función, se ejecuta un bloque de instrucciones y se imprime el resultado.
 - La iteración aparece en `for.py`, `factorial.py`, `fibonacci.py`, `suma_lista.py` y `ultimo.py` como el mecanismo para repetir pasos.
 - Los predicados se usan en las estructuras `if` y `if_variante_*`, así como en `predicados.py` para entender la lógica booleana.
+
+## Videos explicativos
+
+### Ejemplo de uso IF
+
+[Ver video](https://youtu.be/PenG1jBDLWw)
