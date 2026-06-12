@@ -35,8 +35,8 @@
 
 ### Ejemplo de uso IF
 
-[Ver video](https://youtu.be/PenG1jBDLWw)
+[Ver video](https://drive.google.com/file/d/1VDet-diZuI_MquHFxYCYB1kDgHCsWP8c/view?usp=drive_link)
 
 ### Programas de la semana 3
 
-[Ver video](https://youtu.be/CDq5kpRmgZQ)
+[Ver video](https://drive.google.com/file/d/1rClpiEAHobHFJ-6sbg4TQF_bYgYmwYZ8/view?usp=drive_link)
