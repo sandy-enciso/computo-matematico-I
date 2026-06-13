@@ -8,4 +8,4 @@ def perteneceq(lista, elemento):
             return True
     return False
 
-print(perteneceq([1,2,3,'a','b'], 'a'))
+print(perteneceq([1,2,3,'a','b'], 7))

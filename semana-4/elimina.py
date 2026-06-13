@@ -1,4 +1,4 @@
-# Objetivo: Elimina un elemento de una lista
+# Objetivo: Elimina un elemento de una lista (solo la primera vez que aparece)
 
 def elimina(lista, elemento):
     l = []
@@ -10,4 +10,4 @@ def elimina(lista, elemento):
             l = l + [i]
     return l
 
-print(elimina([1,2, 5,3,4,5], 5))
+print(elimina([1,2,5,3,4,5], 5))
