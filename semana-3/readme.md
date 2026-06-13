@@ -33,6 +33,10 @@
 
 ## Videos explicativos
 
+### Todos los videos comprimidos
+
+[Ver video](https://drive.google.com/file/d/1xGmfhvzOlesJjhEuP_4Tsf67sDMCmxl3/view?usp=drive_link)
+
 ### Ejemplo de uso IF
 
 [Ver video](https://drive.google.com/file/d/1VDet-diZuI_MquHFxYCYB1kDgHCsWP8c/view?usp=drive_link)

@@ -1,5 +1,9 @@
 ## Videos
 
+### Todos los videos comprimidos
+
+[Descargar](https://drive.google.com/file/d/1O6TXtLbV1hUDYu8qCxe_T9QNqGwCfXz-/view?usp=drive_link)
+
 ### Al reves
 
 [Ver video](https://drive.google.com/file/d/1BwoNYqfuNp_Uf9z9XHHUKU9zkKg0cUla/view?usp=drive_link)
